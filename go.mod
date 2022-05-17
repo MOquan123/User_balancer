@@ -1,4 +1,4 @@
-module github.com/zehuamama/balancer
+module github.com/MOquan123/User_balancer
 
 go 1.17
 
