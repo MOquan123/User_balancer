@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/zehuamama/balancer/balancer"
+	"github.com/MOquan123/User_balancer/balancer"
 )
 
 var (
