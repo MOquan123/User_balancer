@@ -41,7 +41,7 @@ Location:
 ## Use API
 `balancer` is also a go library that implements load balancing algorithms, it can be used alone as an API, you need to import it into your project first:
 ```shell
-> go get github.com/zehuamama/balancer/balancer
+> go get github.com/MOquan123/User_balancer/balancer
 ```
 
 Build the load balancer with `balancer.Build`:
