@@ -10,7 +10,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/zehuamama/balancer/proxy"
+	"github.com/MOquan123/User_balancer/balancer"
 )
 
 func main() {
